@@ -44,3 +44,5 @@ I'd like to benchmark the algorithms. In the case of the in-shuffle, I would lik
 against an algorithm that gets use to extra memory.
 
 It will be useful to count the number of operations performed by each algorithm.
+
+Unit tests should be added to aid in the correctness of the algorithms.
