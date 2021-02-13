@@ -44,7 +44,7 @@ I find_if_not_backward(I f, I l, P p)
     while (true) {
         if (l == f) return f;
         --l;
-        if (!p(*f)) return ++l;
+        if (!p(*l)) return ++l;
     }
 }
 
